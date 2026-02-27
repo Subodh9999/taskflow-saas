@@ -10,7 +10,7 @@ This project demonstrates clean UI design, responsive layout structure, interact
 
 Add your deployed Vercel link here:
 
-https://your-vercel-link.vercel.app
+https://digital-agency-landing-three.vercel.app/
 
 ---
 
